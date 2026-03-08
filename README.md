@@ -197,7 +197,8 @@ SpatialDimPlot(
   brain_RCTD,
   group.by = "allen_subclass_dominant",
   image.alpha = 0,
-  pt.size.factor = 2.5
+  pt.size.factor = 2.5,
+  label=TRUE
 )
 
 ```
